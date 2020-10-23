@@ -3,7 +3,7 @@ Autohotkey files for my computers.
 
 ## Autohotkey
 - [website](https://www.autohotkey.com/)
-- [GitHub](https://github.com/AutoHotkey/AutoHotkey)
+- [GitHub](https://github.com/AutoHotkey)
 - [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm)
 
 ## Bonus
