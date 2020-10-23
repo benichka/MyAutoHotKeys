@@ -1,7 +1,7 @@
 # MyAutoHotKeys
 AutoHotkey files for my computers.
 
-## Autohotkey
+## AutoHotkey
 - [website](https://www.autohotkey.com/)
 - [GitHub](https://github.com/AutoHotkey)
 - [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm)
