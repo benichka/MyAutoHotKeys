@@ -1,5 +1,5 @@
 # MyAutoHotKeys
-Autohotkey files for my computers.
+AutoHotkey files for my computers.
 
 ## Autohotkey
 - [website](https://www.autohotkey.com/)
